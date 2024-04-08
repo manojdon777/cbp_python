@@ -1,3 +1,2 @@
-print('My First Python Prog')
-print('This is my second line')
-print('My third line')
+for i in [1,2,3,4,5,6]:
+    print(i)

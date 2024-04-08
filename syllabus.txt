@@ -1,0 +1,193 @@
+############################################################
+ANNEXURE - III
+        Python Programming
+        Introduction to Python
+            Overview
+            Python Features
+            Environment Setup
+            Running Python
+            IDLE
+            Commercial and Free Python IDEs
+        Basic Syntax
+            Interactive Mode
+            Script Mode
+            Python Identifiers
+            Reserved Words
+            Lines and Indentation
+            Multi-Line Statements
+            Quotations in Python
+            Comments in Python
+            Using Blank Lines
+            User inputs
+            Command Line Arguments
+        Variable Types
+            Creating variables
+            Assigning Values to Variables
+            Accessing variables
+            Multiple Assignment
+        Downloading, Installation & Configure Various Python Tools
+            Python 2.x or 3.x on various OS platforms like Windows, Linux, Unix & MacOs
+            Pycharm
+            Anaconda & Spyder
+        Standard Data Types
+            Numbers
+            Strings
+            Lists
+            Tuples
+            Dictionaries
+            Sets
+        Python Data Types – Numbers
+            int
+            float
+            complex
+            Number type conversions
+            Mathematical Functions
+            Random Number Functions
+            Trigonometric Functions
+            Mathematical Constants
+        Python Data Types – Strings
+            Accessing values in strings
+            updating strings
+            Escape Character
+            String Special Operator
+            String Formatting Operator
+            Triple Quotes
+            Unicode String
+            Built-in String Methods
+        Python Data Types – Lists
+            Creating the lists
+            Accessing the values in lists
+            Updating Lists
+            Deleting List Elements
+            Basic List Operators
+            Indexing, Slicing and Matrixes
+            Built-in List Functions & Methods
+        Python Data Types – Tuples
+            Creating the tuple
+            Accessing values in Tuples
+            Updating Tuples
+            Delete Tuples Elements
+            Basic Tuples Operations
+            Indexing, Slicing and Matrixes
+            Built-in Tuple Functions
+        Python Data Types – Dictionary
+            Creating a Dictionary
+            Accessing Values in Dictionary
+            Updating Dictionary
+            Deleting Dictionary Elements
+            Properties of Dictionary Keys
+            Built-in Dictionary Functions & MethodsPython Data Types – Sets
+            Creating A Set
+            Accessing A Set
+            Modifying A Set
+            Removing Items From A Set
+            Common Set Operations
+            Built-in Set Functions & Methods
+        Python Operators
+            List of Operators
+            Arithmetic Operators
+            Comparison Operators
+            Assignment Operators
+            Bitwise Operators
+            Logical Operators
+            Membership Operators
+            Identity Operators
+            Operators Precedence
+        Decision Making
+            Single Statement Suites
+            if statements
+            if else statements
+            if elif statements
+            Nested statements
+        Python Loops
+            Various Types of Loops
+            while loop
+            for loop
+            nested loop
+            Loop Control Statements
+            break statement
+            continue statement
+            pass statement
+            Iterator and Generator
+        Python Functions
+            Defining a Function
+            Calling a Function
+            Pass by reference vs value
+            Function Arguments
+            Required Arguments
+            Keyword Arguments
+            Default Arguments
+            Variable-length arguments
+            The anonymous Functions
+            The return Statement
+            Scope of Variables
+            Global vs Local Variables
+        Working with PIP
+            Download PIP
+            Configure Environment Variables
+            Search Modules using PIP
+            Download & Install Modules using PIP
+            Various examples of PIP
+            Downloading, Installing of Various modules
+        Object-Oriented Programming
+            The class statement
+            Creating a Class
+            Methods
+            The self
+            “self” the self reference
+            Object Methods
+            Using Object Methods
+            The __init__ method (The default constructor)
+            Using the __init__ method Private(__var) & Semi-private variables(_var)
+            Class and Object Variables
+            Using Class and Object Variables
+        Inheritance
+            Using Inheritance
+            Multiple-inheritance
+            Operator Overloading
+            operator — Standard operators as functions
+        collections.abc — Abstract Base Classes for Containers
+            Errors and Exceptions
+            User-defined Exceptions
+            Defining Clean-up Actions
+            Predefined Clean-up Actions
+        Functional Programming
+            itertools — Functions creating iterators for efficient looping
+            functools — Higher-order functions and operations on callable
+objects
+            operator — Standard operators as functions
+            Decorators
+            List Comprehensions - Nested List Comprehensions
+            Looping Techniques
+            More on Conditions
+            Comparing Sequences and Other Types
+            Iterators
+            Generators
+        The import statement
+            The from import statement
+            The from import * statement
+            Executing modules as scripts
+            Locating Modules
+        Reading and Writing Files
+            The write() method
+            The read() method
+            File Positions
+            Renaming and Deleting Files
+            The rename() Method & remove() method
+            Directories in Python
+            The mkdir() method
+            The chdir() method
+            The getcwd() method
+            The rmdir() method
+            File & Directory Related Methods
+        Error & Exceptions Handling in Python
+            Assertions in Python
+            The assert statement
+            What is an exception?
+            The except clause with no exceptions
+            The except clause with multiple exceptions
+            The try-finally clause
+            Argument of an exception
+            Raising an exception
+            User-defined exceptions
+############################################################
