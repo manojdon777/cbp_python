@@ -154,7 +154,7 @@ ANNEXURE - III
 			Predefined Clean-up Actions
 		Functional Programming
 			itertools — Functions creating iterators for efficient looping
-			functools — Higher-order functions and operations on callable objects
+			functools — Higher-order functions and operations on callable 	objects
 			operator — Standard operators as functions
 			Decorators
 			List Comprehensions - Nested List Comprehensions
